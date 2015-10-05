@@ -13,7 +13,7 @@ technology which extends it's feature set beyond NAS and transforms the system
 into a private cloud server.
 
 Rockstor can be installed on commodity hardware or as a virtual machine on
-hypervisors like Xen, KVM and VMWare.
+hypervisors like Xen, KVM and VMware.
 
 
 Features
