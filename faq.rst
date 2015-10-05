@@ -15,7 +15,7 @@ What is a quick way to evaluate Rockstor?
 -----------------------------------------
 
 For quick evaluation, install Rockstor on Virtual Box, Virtual Machine Manager
-or VMWare. See :ref:`quickeval` for more information.
+or VMware. See :ref:`quickeval` for more information.
 
 
 How can I get started with Rockstor?
